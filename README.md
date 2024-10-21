@@ -1,4 +1,4 @@
-# Laboratorium: Zarządzanie Tablicą i Obliczanie Średnich
+# Zarządzanie Tablicą i Obliczanie Średnich
 
 ## Opis projektu
 
