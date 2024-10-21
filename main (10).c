@@ -35,11 +35,11 @@ double s_tablica (int n, int m, int z[n][m])
     {
         for (int j = 0; j < m; j++ )
         {
-            t+=z[i][j]; //zliczenie ca³ej tablicy
+            t+=z[i][j]; //zliczenie caÂ³ej tablicy
         }
     }
 
-    t=t/(n+m);
+    t=t/(n*m);
     return t;
 }
 
